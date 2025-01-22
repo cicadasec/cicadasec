@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on to upgrade my skills<br>🎓I'm currently studying Cyber Security<br>👯 I’m looking to collaborate on real-life<br>🤝 I’m looking for help with upgrading my skills.<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact"
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=667512)
 
 
 ## 🌐 Socials:
