@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on to upgrade my skills<br>🎓I'm currently studying Cyber Security<br>👯 I’m looking to collaborate on real-life<br>🤝 I’m looking for help with upgrading my skills.<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact"
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=667512" style='border:none;'></iframe>
+![](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=667512" style='border:none;'></iframe>)
 
 
 ## 🌐 Socials:
@@ -29,5 +29,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/noahsahil) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cicadasec) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
